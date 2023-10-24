@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![banner](https://media.licdn.com/dms/image/C4E16AQEAsYCRlYPAvw/profile-displaybackgroundimage-shrink_350_1400/0/1645216506566?e=1703721600&v=beta&t=uu6MC7i8YktIh_fnjWbrmi7D00yKiE4nlM4dTrPsomY)
 <!--
 **Jorgeromeu/jorgeromeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
